@@ -1,0 +1,4 @@
+# STM8-I2C-FM175XX
+STM8 I2C驱动复旦微FM175XX
+
+使用IAR开发工具
